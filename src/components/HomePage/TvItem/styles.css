@@ -1,0 +1,24 @@
+.scheduled-item {
+  width: 18%;
+}
+.scheduled-item-image {
+  width: 100%;
+  height: 80%;
+}
+
+@media screen and (max-width: 1000px) {
+  .scheduled-item {
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .scheduled-item {
+    width: 40%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .scheduled-item {
+    width: 45%;
+  }
+}

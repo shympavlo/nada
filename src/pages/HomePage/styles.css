@@ -1,0 +1,18 @@
+.home-page-container {
+  margin-bottom: 30px;
+}
+
+.header {
+  background-color: #ebebeb;
+  height: 30%;
+  padding: 30px 30px 70px;
+}
+
+.sub-title {
+  color: #838283;
+  max-width: 500px;
+}
+
+.home-page-content {
+  margin-top: -50px;
+}
